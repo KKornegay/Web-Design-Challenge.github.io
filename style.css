@@ -1,0 +1,27 @@
+.logo{
+    background-color: black;
+    color: white !important; /*!important overrides other styles*/
+    padding: 10px;
+}
+
+.Bigimage{
+    width: 350px;
+    float: left;
+}
+
+.Smallimage{
+    width: 250px;
+}
+.bar-background{
+    background-color:blueviolet !important;
+}
+
+.compimage{
+    width: 700px;
+    float: left;
+}
+
+.header-text{
+    color:blueviolet;
+    font-family: Verdana, Geneva, Tahoma, sans-serif !important;
+}
